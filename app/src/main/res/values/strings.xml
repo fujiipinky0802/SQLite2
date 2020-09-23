@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SQLite2</string>
+    <string name="leftArrow">◀</string>
+    <string name="rightArrow">▶</string>
+    <string name="pm">支出</string>
+    <string name="am">収入</string>
+    <string name="item">カテゴリー</string>
+    <string name="date">日付</string>
+    <string name="textview">支出/収入</string>
+    <string name="okBtn">ok</string>
+    <string name="cancelBtn">cancel</string>
+    <string name="memo">メモ</string>
+    <string name="cost">金額</string>
+    <string name="sum1">収入合計</string>
+    <string name="sum2">支出合計</string>
+    <string name="sum">合計</string>
+    <string name="sum_month">月合計</string>
+</resources>
